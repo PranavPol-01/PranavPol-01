@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on web development with React, Firebase, and Python.<br>👯 Open to collaboration on projects involving web development.<br>🤝 Seeking assistance with React Native and Flutter.<br>🌱 Currently learning Flutter to expand mobile development skills.<br>💬 Feel free to ask me about Firebase and React.
+🔭 Working on web development with React ,Firebase ,NodeJs ,ExpressJs ,MongoDB, and Python.<br>👯 Open to collaboration on projects involving web development.<br>🤝 Seeking assistance with React Native and Flutter.<br>🌱 Currently learning Flutter to expand mobile development skills.<br>💬 Feel free to ask me about Firebase and React.
 
 
 ## 🌐 Socials:
