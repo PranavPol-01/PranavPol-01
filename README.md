@@ -1,5 +1,17 @@
-# 💫 About Me:
+<!--# 💫 About Me:
 🔭 Working on web development with React ,Firebase ,NodeJs ,ExpressJs ,MongoDB, and Python.<br>👯 Open to collaboration on projects involving web development.<br>🤝 Seeking assistance with React Native and Flutter.<br>🌱 Currently learning Flutter to expand mobile development skills.<br>💬 Feel free to ask me about Firebase and React.
+-->
+# Hi there 👋, I'm Pranav Pol 
+
+### 🔭 Current Work
+- Building **Web Development** projects using:  
+- Next.js, React, Firebase, Node.js, Express.js, MongoDB, Python  
+### 👯 Collaboration
+- Open to working on **Web & Mobile Development** projects  
+- Interested in Hackathons, and rapid prototyping  
+### 🌱 Learning Journey
+- Exploring **Generative AI** for real-world applications  
+
 
 
 ## 🌐 Socials:
