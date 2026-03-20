@@ -41,7 +41,7 @@
 
 <!-- ===================== PROFILE BANNER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Pranav%20Pol&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%204x%20Hackathon%20Winner%20%7C%20SIH%20Champion&descSize=20&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Pranav%20Pol&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%206x%20Hackathon%20Winner%20%7C%20SIH%20Champion&descSize=20&descAlignY=55"/>
 </div>
 
 <!-- ===================== ANIMATED INTRO ===================== -->
@@ -72,7 +72,7 @@ const pranav = {
     role: "Full Stack & Mobile App Developer",
     location: "India 🇮🇳",
     achievements: [
-        "4× Hackathon Winner", 
+        "6× Hackathon Winner", 
         "SIH 2024 & 2025 National Champion"
     ],
     passions: [
