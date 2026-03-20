@@ -111,7 +111,7 @@ const pranav = {
 | 🏅 Achievement | 🎯 Details | 📅 Year |
 |:---:|:---:|:---:|
 | 🥇 **SIH National Winner** | Smart India Hackathon | 2024 & 2025 |
-| 🏆 **4× Hackathon Winner** | Multiple Innovation Challenges | 2023-2025 |
+| 🏆 **6× Hackathon Winner** | Multiple Innovation Challenges | 2023-2025 |
 | 🚀 **Production Apps** | Deployed scalable solutions | Ongoing |
 
 </div>
